@@ -1,14 +1,15 @@
-# Basic Calculator 
+# React Calculator
 
-A simple command-line calculator that performs basic arithmetic operations.
+A simple calculator built using React that performs basic arithmetic operations.
 
 ## Features
-- Addition, subtraction, multiplication, and division
-- User-friendly input prompts
+- Basic arithmetic operations: addition, subtraction, multiplication, and division
+- Interactive and responsive UI
 - Error handling for invalid inputs
+- Styled with modern UI components
 
 ## Prerequisites
-- Python 3.x
+- Node.js and npm/yarn installed
 
 ## Installation
 1. Clone the repository:
@@ -19,13 +20,17 @@ A simple command-line calculator that performs basic arithmetic operations.
    ```sh
    cd Basic_Calculator
    ```
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
 
 ## Usage
-Run the calculator script with:
+Run the development server:
 ```sh
-python calculator.py
+npm start
 ```
-Follow the on-screen instructions to perform calculations.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Example
 ```
@@ -43,8 +48,3 @@ This project is licensed under the MIT License.
 
 ## Contact
 For any questions, reach out via GitHub issues.
-
----
-
-Save this content as `README.md` in the project root directory.
-
