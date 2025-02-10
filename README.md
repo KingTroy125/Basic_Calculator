@@ -1,4 +1,4 @@
-# Basic Calculator
+# Basic Calculator 
 
 A simple command-line calculator that performs basic arithmetic operations.
 
